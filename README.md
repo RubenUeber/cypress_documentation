@@ -1,5 +1,5 @@
 # cypress_documentation
-Documento de guia do Cypress
+Documento de guia de configuração do mochawesome no Cypress
 
 
 >>>Boas práticas para documentação de relatório dos testes
